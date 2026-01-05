@@ -25,6 +25,7 @@ I'm a **Mid-level Full-stack Developer** focused on the **React ecosystem**, wit
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)
 
@@ -33,6 +34,11 @@ I'm a **Mid-level Full-stack Developer** focused on the **React ecosystem**, wit
 ![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?logo=typeorm&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+
 
 ### Testing
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white)
@@ -43,6 +49,7 @@ I'm a **Mid-level Full-stack Developer** focused on the **React ecosystem**, wit
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
 
 ---
 
