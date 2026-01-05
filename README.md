@@ -6,7 +6,7 @@
 ![React Native](https://img.shields.io/badge/React_Native-Mobile-20232A?logo=react&logoColor=61DAFB)
 ![Docker](https://img.shields.io/badge/Docker-DevOps-2496ED?logo=docker&logoColor=white)
 
-I'm a **Mid-level Front-end Developer** focused on the **React ecosystem**, with over **3 years of active professional experience** building web and mobile applications.
+I'm a **Mid-level Full-stack Developer** focused on the **React ecosystem**, with over **3 years of active professional experience** building web and mobile applications.
 
 ---
 
